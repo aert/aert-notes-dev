@@ -1,7 +1,7 @@
 .. include:: README.rst
 
-Contenu
-=======
+Sommaire
+========
 
 .. toctree::
    :maxdepth: 2
