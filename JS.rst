@@ -4,8 +4,13 @@ Librairies Javascript
 Charting
 ========
 
-- Highcharts JS ``(5/5)``
-- JqPlot ``(3/5)``
+- Highcharts JS ``5/5``
+- JqPlot ``3/5``
+
+Vector Graphics
+===============
+
+- `Raphaël JS <http://raphaeljs.com/>`_ ``4/5``
 
 Spreadsheet / Excel
 ===================
@@ -15,8 +20,7 @@ Spreadsheet / Excel
 Navigation / Menu
 =================
 
-- JQuery Superfish
-    http://users.tpg.com.au/j_birch/plugins/superfish
+- `JQuery Superfish <http://users.tpg.com.au/j_birch/plugins/superfish>`_
 
 Caroussel
 =========
@@ -32,5 +36,5 @@ Tooltips
 HTML 5
 ======
 
-- www.modernizr.com
+- `Modernizr <www.modernizr.com>`_ : *Tests browser's html5 capabilities and manages js dependancies*
 
