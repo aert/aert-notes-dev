@@ -3,9 +3,9 @@ Notes techniques
 
 .. .. contents::
 
-.. rubric:: Pense-bête pour le développement.
+Pense-bête pour le développement.
 
-- **Consultation en ligne** : http://readthedocs.org/docs/aert-notes-dev
+- **Consultation en ligne** : http://aert-notes-dev.readthedocs.org
 - **GitHub**::
 
     $ git clone https://aert@github.com/aert/aert-notes-dev.git
