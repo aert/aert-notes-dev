@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'AERT - Notes Dév'
+project = u'AERT - Notes'
 copyright = u'2011, a.e.r.t'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -178,7 +178,7 @@ htmlhelp_basename = 'AERT-NotesDvdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'AERT-NotesDv.tex', u'AERT - Notes Dév Documentation',
+  ('index', 'AERT-NotesDv.tex', u'AERT - Notes Documentation',
    u'a.e.r.t', 'manual'),
 ]
 
@@ -211,6 +211,6 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'aert-notesdv', u'AERT - Notes Dév Documentation',
+    ('index', 'aert-notesdv', u'AERT - Notes Documentation',
      [u'a.e.r.t'], 1)
 ]
