@@ -27,12 +27,13 @@ Spreadsheet / Excel
 
 - SlickGrid (JQuery)
 
-Navigation / Menu
-=================
+Navigation / Menu / Tree
+========================
 
-.. index:: Navigation, Menu
+.. index:: Navigation, Menu, TreeView
 
 - `JQuery Superfish <http://users.tpg.com.au/j_birch/plugins/superfish>`_
+- jsTree: *TreeView*
 
 Caroussel
 =========
