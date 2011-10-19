@@ -1,3 +1,4 @@
+
 .. include:: README.rst
 
 Sommaire
@@ -9,12 +10,12 @@ Sommaire
    JS
    Design
    Python
+   reST
 
-..
-    Indices and tables
-    ==================
-    
-    * :ref:`genindex`
-    * :ref:`modindex`
-    * :ref:`search`
+Indexs et tables
+================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
