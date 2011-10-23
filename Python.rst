@@ -10,6 +10,7 @@ Django
 .. index:: Django
 
 - http://djangopackages.com/
+- ``django-guardian``: Permissions par objets.
 
 GUI
 ===
