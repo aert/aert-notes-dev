@@ -9,13 +9,12 @@ CSS Frameworks
 
 .. index:: CSS Frameworks
 
-- http://960.gs/
-    CSS Grid System
+- `Bootstrap Twitter <http://twitter.github.com/bootstrap>`_ ``5/5`` 
+- `960.gs <http://960.gs>`_ : *CSS Grid System* ``2/5``
 
 Templates
 =========
 
 .. index:: Templates
 
-- http://www.justfreetemplates.com/
-    ex.: http://www.justfreetemplates.com/web-templates/view/2056.html
+- `JustFreeTemplates.com <http://www.justfreetemplates.com>`_ : `example <http://www.justfreetemplates.com/web-templates/view/2056.html>`_
