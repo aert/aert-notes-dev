@@ -5,8 +5,8 @@ Notes techniques
 
 Pense-bête pour le développement.
 
-- **Consultation en ligne** : http://aert-notes-dev.readthedocs.org
-- **Téléchargement**::
+.. sidebar:: Note
 
-    $ git clone https://aert@github.com/aert/aert-notes-dev.git
+    - Consultation en ligne : http://aert-notes-dev.readthedocs.org
+    - Téléchargement : https://github.com/aert/aert-notes-dev
 
