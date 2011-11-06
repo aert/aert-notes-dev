@@ -935,9 +935,9 @@ Examples
       
          "bar" -- "baz";
 
-.. graph:: foo
+.. .. graph:: foo
 
-   "bar" -- "baz";
+..   "bar" -- "baz";
 
 .. sidebar:: Directed graph
 
@@ -947,6 +947,6 @@ Examples
       
          "bar" -> "baz";
 
-.. digraph:: foo
+.. .. digraph:: foo
 
-   "bar" -> "baz";
+..   "bar" -> "baz";

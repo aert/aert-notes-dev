@@ -1,5 +1,5 @@
 
-.. include:: README.rst
+.. include:: ../README.rst
 
 Sommaire
 ========
@@ -7,10 +7,11 @@ Sommaire
 .. toctree::
    :maxdepth: 2
 
-   JS
-   Design
-   Python
-   reST
+   git
+   python
+   js
+   design
+   rest
 
 Indexs et tables
 ================
