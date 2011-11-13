@@ -18,10 +18,13 @@ Django
 +-----------+--------------------+--------------------------------------------------------------------------+
 | ``++++-`` | django-compressor_ | Compresses linked and inline javascript or CSS into a single cached file |
 +-----------+--------------------+--------------------------------------------------------------------------+
+| ``+++--`` | dse_               | Simplified "bulk" insert/update/delete for Django.                       |
++-----------+--------------------+--------------------------------------------------------------------------+
 
 .. _djangopackages: http://djangopackages.com 
 .. _django-guardian: https://github.com/lukaszb/django-guardian 
 .. _django-compressor: https://github.com/mintchaos/django_compressor 
+.. _dse: http://pypi.python.org/pypi/dse
 
 GUI
 ===
