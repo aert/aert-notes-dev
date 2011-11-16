@@ -1,7 +1,5 @@
-
-===============================
-:mod:`reST` -- reStructuredText
-===============================
+reStructuredText
+****************
 
 .. module:: reST
    :synopsis: Documentation of reStructuredText and Sphinx

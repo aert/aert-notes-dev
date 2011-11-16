@@ -1,6 +1,5 @@
-
-:mod:`Javascript` -- Librairies Javascript
-******************************************
+Javascript
+**********
 
 .. module:: Javascript
    :synopsis: Programmation Javascript

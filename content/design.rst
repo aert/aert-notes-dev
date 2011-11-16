@@ -1,5 +1,5 @@
-:mod:`Design` -- Design / CSS
-*****************************
+Design / CSS
+************
 
 .. module:: Design
    :synopsis: Web Design

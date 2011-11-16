@@ -1,8 +1,8 @@
-:mod:`Git`
-**********
+Git
+***
 
 .. module:: Git
-   :synopis: Using Git
+   :synopsis: Using Git
 
 .. index:: Git
 

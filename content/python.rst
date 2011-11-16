@@ -1,5 +1,5 @@
-:mod:`Python`
-*************
+Python
+******
 
 .. module:: Python
    :synopsis: Programmation Python
