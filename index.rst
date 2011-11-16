@@ -1,7 +1,7 @@
 
 .. include:: README.rst
 
-Sommaire
+Contents
 ========
 
 .. toctree::
@@ -13,8 +13,8 @@ Sommaire
    content/design
    content/rest
 
-Indexs et tables
-================
+Indexs and tables
+=================
 
 * :ref:`genindex`
 * :ref:`modindex`

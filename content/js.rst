@@ -54,5 +54,5 @@ HTML 5
 
 .. index:: HTML 5
 
-- `Modernizr <www.modernizr.com>`_ : *Tests browser's html5 capabilities and manages js dependancies*
+- `Modernizr <http://www.modernizr.com>`_ : *Tests browser's html5 capabilities and manages js dependancies*
 

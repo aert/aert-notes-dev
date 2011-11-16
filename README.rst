@@ -1,16 +1,12 @@
-Notes techniques
-****************
+Programming Notes
+*****************
 
 .. .. contents::
 
-Pense-bête pour le développement.
+Memo for programming purposes.
 
-.. sidebar:: Note
+.. seealso::
 
-    - Consultation en ligne:
-
-      http://aert-notes-dev.readthedocs.org
-    - Téléchargement:
-
-      https://github.com/aert/aert-notes-dev
+    - `Online reading <http://aert-notes-dev.readthedocs.org>`_
+    - `Git & GitHub <https://github.com/aert/aert-notes-dev>`_
 

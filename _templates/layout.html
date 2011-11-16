@@ -18,7 +18,7 @@
           {%- if not loop.first %}{{ reldelim2 }}{% endif %}</li>
         {%- endfor %}
         {%- block rootrellink %}
-		<li><a href="http://kivy.org/">Homepage</a> &raquo;</li>
+		<li><a href="{{ pathto(master_doc) }}">Homepage</a> &raquo;</li>
         <li><a href="{{ pathto(master_doc) }}">{{ shorttitle|e }}</a>{{ reldelim1 }}</li>
         {%- endblock %}
         {%- for parent in parents %}
@@ -32,7 +32,7 @@
 {%- macro relbar() %}
     <div class="related">
       <ul>
-		<li><a href="http://kivy.org/">Homepage</a> - </li>
+		<li><a href="{{ pathto(master_doc) }}">Homepage</a> - </li>
         <li><a href="{{ pathto(master_doc) }}">Documentation</a></li>
 		{#
         {%- for parent in parents %}
@@ -165,7 +165,7 @@
 
 	<div id="header">
 		<div id="logo">
-			<a href="http://kivy.org/">
+			<a href="{{ pathto(master_doc) }}">
 				<img src="{{ pathto('_static/' + logo, 1) }}" alt="Logo"/>
 			</a>
 		</div>
