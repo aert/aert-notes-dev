@@ -1,5 +1,5 @@
-reStructuredText
-****************
+reST
+****
 
 .. module:: reST
    :synopsis: Documentation of reStructuredText and Sphinx

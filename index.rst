@@ -7,10 +7,11 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   content/git
    content/python
    content/js
+   content/git
    content/design
+   content/analytics
    content/rest
 
 Indexs and tables
