@@ -9,50 +9,108 @@ Charting
 
 .. index:: Charting, Plot
 
-- Highcharts JS ``5/5``
-- JqPlot ``3/5``
++-----------+------------------+---------------------------------------------+
+|           |                  |                                             |
++===========+==================+=============================================+
+| ``+++++`` | `Highcharts JS`_ | ...                                         |
++-----------+------------------+---------------------------------------------+
+| ``+++--`` | JqPlot_          | Plotting and charting plugin for the jQuery |
++-----------+------------------+---------------------------------------------+
+
+.. _`Highcharts JS`: http://www.highcharts.com/
+.. _JqPlot: http://www.jqplot.com/
 
 Vector Graphics
 ===============
 
 .. index:: Vector Graphics
 
-- `Raphaël JS <http://raphaeljs.com/>`_ ``4/5``
++-----------+----------------+-----+
+|           |                |     |
++===========+================+=====+
+| ``++++-`` | `Raphaël JS`_  | ... |
++-----------+----------------+-----+
+
+.. _`Raphaël JS`: http://raphaeljs.com/
 
 Spreadsheet / Excel
 ===================
 
 .. index:: Excel, Spreadsheet
 
-- SlickGrid (JQuery)
++-----------+------------+-----------------------------------------------+
+|           |            |                                               |
++===========+============+===============================================+
+| ``++++-`` | SlickGrid_ | A lightening fast JavaScript grid/spreadsheet |
++-----------+------------+-----------------------------------------------+
+
+.. _SlickGrid: https://github.com/mleibman/SlickGrid
 
 Navigation / Menu / Tree
 ========================
 
 .. index:: Navigation, Menu, TreeView
 
-- `JQuery Superfish <http://users.tpg.com.au/j_birch/plugins/superfish>`_
-- jsTree: *TreeView*
++-----------+---------------------+------------------------------+
+|           |                     |                              |
++===========+=====================+==============================+
+| ``++++-`` | `JQuery Superfish`_ | jQuery menu plugin           |
++-----------+---------------------+------------------------------+
+| ``++++-`` | jsTree_             | Cross browser tree component |
++-----------+---------------------+------------------------------+
+
+.. _`JQuery Superfish`: http://users.tpg.com.au/j_birch/plugins/superfish
+.. _jsTree: http://www.jstree.com/
 
 Caroussel
 =========
 
 .. index:: Caroussel
 
-- jQuery Cycle Plugin
++-----------+------------------------+---------------------------------------------------------------------------------------------------------+
+|           |                        |                                                                                                         |
++===========+========================+=========================================================================================================+
+| ``++++-`` | `jQuery Cycle Plugin`_ | The jQuery Cycle Plugin is a slideshow plugin that supports many different types of transition effects. |
++-----------+------------------------+---------------------------------------------------------------------------------------------------------+
+
+.. _`jQuery Cycle Plugin`: http://jquery.malsup.com/cycle/
 
 Tooltips
 ========
 
 .. index:: Tooltips
 
-- JQuery Tipsy
++-----------+-----------------+----------+
+|           |                 |          |
++===========+=================+==========+
+| ``++++-`` | `JQuery Tipsy`_ | Tooltips |
++-----------+-----------------+----------+
 
+.. _`JQuery Tipsy`: http://onehackoranother.com/projects/jquery/tipsy/
+
+Calendar
+========
+
+.. index:: Calendar
+
++-----------+------------------------+-------------------------------------------------------+
+|           |                        |                                                       |
++===========+========================+=======================================================+
+| ``++++-`` | `JQuery FullCalendar`_ | Full-sized drag & drop event calendar (jQuery plugin) |
++-----------+------------------------+-------------------------------------------------------+
+
+.. _`JQuery FullCalendar`: https://github.com/arshaw/fullcalendar
 
 HTML 5
 ======
 
 .. index:: HTML 5
 
-- `Modernizr <http://www.modernizr.com>`_ : *Tests browser's html5 capabilities and manages js dependancies*
++-----------+------------+----------------------------------------------------------------+
+|           |            |                                                                |
++===========+============+================================================================+
+| ``+++--`` | Modernizr_ | Tests browser's html5 capabilities and manages js dependancies |
++-----------+------------+----------------------------------------------------------------+
+
+.. _Modernizr: http://www.modernizr.com 
 
