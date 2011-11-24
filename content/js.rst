@@ -4,6 +4,20 @@ Javascript
 .. module:: Javascript
    :synopsis: Programmation Javascript
 
+
+UI Frameworks
+=============
+
+.. index:: UI Frameworks
+
++-----------+-------------+-----------------------------------+
+|           |             |                                   |
++===========+=============+===================================+
+| ``+++++`` | `Kendo UI`_ | Complete Framework for HTML5 apps |
++-----------+-------------+-----------------------------------+
+
+.. _`Kendo UI`: http://www.kendoui.com/kendo-ui.aspx
+
 Charting
 ========
 

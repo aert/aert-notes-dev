@@ -12,6 +12,8 @@ Django
 +-----------+--------------------+--------------------------------------------------------------------------+
 |           |                    |                                                                          |
 +===========+====================+==========================================================================+
+| ``+++++`` | Satchmo_           | eCommerce                                                                |
++-----------+--------------------+--------------------------------------------------------------------------+
 | ``++++-`` | djangopackages_    | Index...                                                                 |
 +-----------+--------------------+--------------------------------------------------------------------------+
 | ``++++-`` | django-guardian_   | Implementation of per object permissions for Django 1.2+                 |
@@ -25,6 +27,7 @@ Django
 .. _django-guardian: https://github.com/lukaszb/django-guardian 
 .. _django-compressor: https://github.com/mintchaos/django_compressor 
 .. _dse: http://pypi.python.org/pypi/dse
+.. _Satchmo: http://www.satchmoproject.com/
 
 GUI
 ===
