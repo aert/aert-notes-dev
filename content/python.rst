@@ -14,6 +14,8 @@ Django
 +===========+====================+==========================================================================+
 | ``+++++`` | Satchmo_           | eCommerce                                                                |
 +-----------+--------------------+--------------------------------------------------------------------------+
+| ``+++++`` | Haystack_          | Modular search for django                                                |
++-----------+--------------------+--------------------------------------------------------------------------+
 | ``++++-`` | djangopackages_    | Index...                                                                 |
 +-----------+--------------------+--------------------------------------------------------------------------+
 | ``++++-`` | django-guardian_   | Implementation of per object permissions for Django 1.2+                 |
@@ -28,6 +30,7 @@ Django
 .. _django-compressor: https://github.com/mintchaos/django_compressor 
 .. _dse: http://pypi.python.org/pypi/dse
 .. _Satchmo: http://www.satchmoproject.com/
+.. _Haystack: http://haystacksearch.org/
 
 GUI
 ===
