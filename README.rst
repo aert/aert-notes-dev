@@ -3,7 +3,7 @@ Programming Notes
 
 .. .. contents::
 
-Memo for programming purposes.
+Memo for development and project management.
 
 .. seealso::
 

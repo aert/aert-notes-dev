@@ -7,6 +7,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   content/func-management
    content/python
    content/js
    content/git

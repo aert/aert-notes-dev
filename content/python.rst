@@ -2,7 +2,7 @@ Python
 ******
 
 .. module:: Python
-   :synopsis: Programmation Python
+   :synopsis: Python Programming
 
 Django
 ======
