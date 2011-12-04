@@ -12,7 +12,7 @@ Resources
 +-----------+------------+------------------------------------------------------------------------------------------------------------+
 |           |            |                                                                                                            |
 +===========+============+============================================================================================================+
-| ``+++++`` | FamFamFam_ | “Silk” is a smooth, free icon set, containing over 700 16-by-16 pixel icons in strokably-soft PNG format |
+| ``+++++`` | FamFamFam_ | ``Silk`` is a smooth, free icon set, containing over 700 16-by-16 pixel icons in strokably-soft PNG format |
 +-----------+------------+------------------------------------------------------------------------------------------------------------+
 
 .. _FamFamFam: http://www.famfamfam.com/lab/icons/silk/
