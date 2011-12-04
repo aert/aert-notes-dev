@@ -570,8 +570,7 @@ level ‹number›::
 
 ----
 
-**Include an image** (see also in the `Sphinx documentation
-<file:///usr/share/doc/python-sphinx/html/rest.html#images>`__)::
+**Include an image**::
 
    .. image:: ‹file name›
 
@@ -740,9 +739,7 @@ Create a **centered, boldface** text block with::
 
 ----
 
-There are very powerful directives in `Sphinx
-<file:///usr/share/doc/python-sphinx/html/markup/desc.html#module-specific-markup>`__
-for **documenting source code**.
+There are very powerful directives in ``Sphinx`` for **documenting source code**.
 
 Comments
 --------
