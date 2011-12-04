@@ -8,6 +8,7 @@ Contents
    :maxdepth: 2
 
    content/func-management
+   content/dotnet
    content/python
    content/js
    content/git
