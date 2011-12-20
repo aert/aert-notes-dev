@@ -46,3 +46,20 @@ Templates
 
 .. _JustFreeTemplates: http://www.justfreetemplates.com
 .. _example: http://www.justfreetemplates.com/web-templates/view/2056.html 
+
+Colorschemes
+============
+
+.. index:: Colorschemes
+
++-----------+------------+--------------+
+|           |            |              |
++===========+============+==============+
+| ``+++++`` | Solarized_ | Light + Dark |
++-----------+------------+--------------+
+
+.. _Solarized: http://ethanschoonover.com/solarized
+
+
+
+
