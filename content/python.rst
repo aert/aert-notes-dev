@@ -35,6 +35,19 @@ Django
 .. _Satchmo: http://www.satchmoproject.com/
 .. _Haystack: http://haystacksearch.org/
 
+Utils
+=====
+
+.. index:: Utils
+
++-----------+----------+--------------------------------------------------------+
+|           |          |                                                        |
++===========+==========+========================================================+
+| ``+++++`` | psutils_ | A process utilities module for Python (Ram, disk, ...) |
++-----------+----------+--------------------------------------------------------+
+
+.. _psutils: http://pypi.python.org/pypi/psutil
+
 GUI
 ===
 
