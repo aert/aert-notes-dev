@@ -28,3 +28,10 @@ Get Total Commits Number in git
     $ git rev-list --all | wc-l
 
 
+List Branches and Tracking Info
+==============================
+
+::
+
+    $ git branch -avv
+
