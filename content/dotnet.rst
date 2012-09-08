@@ -4,6 +4,13 @@
 .. module:: DotNet
    :synopsis: .NET Programming
 
+Guidelines
+==========
+
+* http://www.mono-project.com/Coding_Guidelines
+* http://git.gnome.org/browse/banshee/tree/HACKING
+* http://msdn.microsoft.com/en-us/library/ms229042.aspx
+
 
 CMS
 ===
