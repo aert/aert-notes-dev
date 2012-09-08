@@ -6,6 +6,11 @@ Git
 
 .. index:: Git
 
+Guidelines
+==========
+
+* http://live.gnome.org/Git/Developers
+
 My Aliases
 ==========
 
