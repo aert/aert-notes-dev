@@ -27,10 +27,13 @@ CSS Frameworks
 +===========+======================+========================================+
 | ``+++++`` | `Bootstrap Twitter`_ | HTML, CSS, and JS toolkit from Twitter |
 +-----------+----------------------+----------------------------------------+
+| ``+++++`` | `{wrap}bootstrap`_   | Themes & templates for bootstrap       |
++-----------+----------------------+----------------------------------------+
 | ``++---`` | `960.gs`_            | CSS Grid System                        |
 +-----------+----------------------+----------------------------------------+
 
 .. _`Bootstrap Twitter`: http://twitter.github.com/bootstrap 
+.. _`{wrap}bootstrap`: https://wrapbootstrap.com/themes/page.1/sort.sales/order.desc
 .. _`960.gs`: http://960.gs
 
 Templates

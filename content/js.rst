@@ -26,11 +26,17 @@ Charting
 +-----------+------------------+---------------------------------------------+
 |           |                  |                                             |
 +===========+==================+=============================================+
+| ``+++++`` | `Flot Charts`_   | Attractive JavaScript plotting for jQuery   |
++-----------+------------------+---------------------------------------------+
+| ``+++++`` | `Peity`_         | jQuery plugin that converts data to canvas  |
++-----------+------------------+---------------------------------------------+
 | ``+++++`` | `Highcharts JS`_ | ...                                         |
 +-----------+------------------+---------------------------------------------+
 | ``+++--`` | JqPlot_          | Plotting and charting plugin for the jQuery |
 +-----------+------------------+---------------------------------------------+
 
+.. _`Flot Charts`: http://www.flotcharts.org/
+.. _`Peity`: http://benpickles.github.com/peity/
 .. _`Highcharts JS`: http://www.highcharts.com/
 .. _JqPlot: http://www.jqplot.com/
 
