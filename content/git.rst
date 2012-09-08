@@ -40,3 +40,9 @@ List Branches and Tracking Info
 
     $ git branch -avv
 
+
+Combine multiple commits into one
+=================================
+
+Use ``git rebase`` than interactively ``pick`` and ``squash`` ( see `here <http://feeding.cloud.geek.nz/2010/08/combining-multiple-commits-into-one.html>`)
+
